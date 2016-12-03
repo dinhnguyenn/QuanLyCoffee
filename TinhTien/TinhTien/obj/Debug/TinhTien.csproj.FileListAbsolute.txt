@@ -1,0 +1,22 @@
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\bin\Debug\TinhTien.exe.config
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\bin\Debug\TinhTien.exe
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\bin\Debug\TinhTien.pdb
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\obj\Debug\TinhTien.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\obj\Debug\TinhTien.frmTinhTien.resources
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\obj\Debug\TinhTien.Properties.Resources.resources
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\obj\Debug\TinhTien.csproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\obj\Debug\TinhTien.exe
+c:\users\mypc\documents\visual studio 2012\Projects\TinhTien\TinhTien\obj\Debug\TinhTien.pdb
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\bin\Debug\TinhTien.exe.config
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\obj\Debug\TinhTien.exe
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\obj\Debug\TinhTien.pdb
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\bin\Debug\TinhTien.exe
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\bin\Debug\TinhTien.pdb
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\obj\Debug\TinhTien.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\obj\Debug\TinhTien.frmTinhTien.resources
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\obj\Debug\TinhTien.Properties.Resources.resources
+C:\Users\nguye\Desktop\EF_TinhTIen_Hoan\TinhTien\TinhTien\obj\Debug\TinhTien.csproj.GenerateResource.Cache
